@@ -1,0 +1,41 @@
+.services{
+    display: flex;
+}
+.wallpaper{
+    background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxASEhAQEBAPDxIQDw8PDw8PDw8NDw8QFRUWFhURFRUYHSggGBolGxUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OFxAPFy0dHR0tKy0tLS0rKy0tLSstKy0rLS0rKy0rLS0rLS0rLS0tKy0tLSstNy0tLTc3Ky0tLTc3Lf/AABEIAOEA4QMBIgACEQEDEQH/xAAZAAEBAQEBAQAAAAAAAAAAAAAAAQIDBAf/xAAmEAEBAAECBAcAAwAAAAAAAAAAAQIDERIhMWETQVFxkcHwgaGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECA//EABkRAQEBAQEBAAAAAAAAAAAAAAABEQIxEv/aAAwDAQACEQMRAD8A+4gAAAAAAAAACbrAAS0FGbqRnxeybB0HLxKniVPqLjsOPHfVqXofRjoCbtIolqYUGgAAAAAEtVyyy8u6WjfGu7juM/S47bpxM4c0yu3JdFuX+HHO7mM6OmOoXU7OYbRvxF8RzDaN+JWLQNABFBUBqbft1uU5MC6jVy9/lJUWUGs6mFZDR2xy3ac8K6NxABQAAcM+td3DJnpYgDCtYVkAAAAAAAAAXiqUKoAIAAAAAAN6cdWNPFt0njIAoAAPO9Dzs9LABhQAAAAAAAAAAAAAAAAAAgA6YWfq3u4R15RuVGwGkAAHGY93ZnhSzRxo1cevuywoAigAAAAAAAAAAAAAAAAADpw7xzddPo1yjYQbQAAABmzr8uLvl0rgx0sAXdlUAAAAAAAAAAAAAAAAABZHXFxbxvNqI6RUkVtAABjLPZtz1Yl8GLlagObQAAAAAAAAAAAAAAAAAAACxcYkan8dfdYjoqK6IAAOOfV2cc+rPSxkBhQAAAAAAAAAAAAAAAAAAAFlW1mN29liOmNVjH6bbiACg46nV2ctXqz14sYAYUAAAAAAAAAAAAAAAAAAAAXFCA64zo2xhW3SMgCg56vk6M6kS+DiA5tAAAAAAAAAAAAAAAAAAAAAANYOzjhXZvlKANIJVZzvl6g5bI63Byc7MUFhUVAAAAAAAAAAAAAAAAAAAAddORtz05HR0njIAoOed5ujjn1qdLGsbXNrGpkxRNzcEUAAAAAkABvhXEYG8bPQynmYMDpjJ5s/BgyN5X05MAAIoEi2AhFkMfRRvTdHPGd3RuMgCg437dnC3mz0sXf2qWrv2+iRkSQkdJg1Ivya4bDvcWcpsfJrkNz7Mpv0TBnZvCs2d2tKLPRnFaZY3dbgYMfK3J04Inh9zKMS+39G1/bOk/eTM/QwSYJljs1kxkURbGtPHd0s7Eg5acM5zauHonfz9DBrgXhXdWsiMxoFAABnLGVoBi6cSY3s6CYJFBQSxQGZjCYtBgzMO9Th7tiYJsnD7tCiSJMPdoBJDhUBNnLN2EsEwm0UFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH/9k=);
+    
+}
+.brand img{
+    height: 70px;
+
+}
+.creative img{
+    height: 70px;
+    margin-top: 85px;
+}
+.responsive img{
+    height: 70px;
+    margin-top: 85px;
+    margin-left: 20px;
+}
+.responsive p{
+    margin-left: 35px;
+}
+.backend img{
+    height: 90px;
+    margin-top: 85px;
+    margin-left: 50px;
+}
+.backend p{
+    margin-left: 35px;
+}
+p{
+    color: purple;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color:blueviolet;
+    font-weight: bolder;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
